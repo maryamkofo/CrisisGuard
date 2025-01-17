@@ -55,5 +55,5 @@ This project would not have been possible without the dedication and expertise o
 ---
 
 ## Contact
-For more information or to get in touch, please contact us at maryamkofosulaiman@gmail.com.
+For more information or to get in touch, please contact us at maryamkofosulaiman@gmail.com, judy.abdelhalim3141@gmail.com.
 
