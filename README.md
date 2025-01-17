@@ -54,11 +54,6 @@ This project would not have been possible without the dedication and expertise o
 
 ---
 
-## License
-CrisisGuard is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the project with attribution.
-
----
-
 ## Contact
 For more information or to get in touch, please contact us at maryamkofosulaiman@gmail.com.
 
